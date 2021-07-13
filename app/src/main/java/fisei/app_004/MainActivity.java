@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    private int sumar;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
